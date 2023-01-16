@@ -1,1 +1,1 @@
-# ForFun
+# Apparently this become a discord bot coding
